@@ -60,6 +60,9 @@ This application is designed to empower individuals on their journey to better h
 ---
 
 ### 4.2 Benchmark
+In the process of developing an application, it is of vital importance to conduct a thorough analysis of the applications already available in the market, especially those that directly compete with ours, in order to ensure that we successfully meet the expectations and requirements of users.
+
+Benchmarking is the key tool that allows us to carry out this activity, helping us identify both areas for improvement and the strengths of these applications. The goal is to effectively integrate these lessons learned into our own product, enabling us to thoroughly understand market expectations and user demands.
 
 ![Benchmarking](./files/benchmarking.png)
 
