@@ -1,7 +1,6 @@
 # Proyecto PowerPulse UXD
 
-User experience study for Plantitas App
-interior plants health care and search mobile application
+User experience study for power pulse a fitness progress tracking app.
 
 ## Index
 
