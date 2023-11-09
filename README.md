@@ -84,10 +84,14 @@ Wireframes
 Wireframes help us create simple and schematic visual representations of a user interface, which are used in the design of applications and websites. These drawings or diagrams assist in planning the arrangement of elements on a screen, such as buttons, text, images, and other components, without concerning themselves with visual or graphic details. Wireframes are a fundamental tool for planning and communication in the user interface design process.
 
 Wireframes [here](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
+
+Figma: [here](https://www.figma.com/file/5yWetfQWsOKaTY2xWnA2vq/Wireframes-PowerPulse-UX-UI?type=design&node-id=0-1&mode=design&t=gkuFV4vzFqPUIrsP-0)
 ---
 
 ## 7. Surface
 Below, we present the mockups created to address the issue of our project using Figma.
 
-Mockups [here](./files/mockups/Mockups%20PowerPulse%20UX-UI.pdf)
+Mockups: [here](./files/mockups/Mockups%20PowerPulse%20UX-UI.pdf)
+
+Figma: [here](https://www.figma.com/file/VkWSPE5DiLOpCXBbZqmKpJ/Mockups-PowerPulse-UX-UI?type=design&mode=design&t=R0NeCmzueuiCmYsj-0)
 ---
