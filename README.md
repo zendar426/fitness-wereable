@@ -87,5 +87,7 @@ Wireframes [here](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
 ---
 
 ## 7. Surface
+Below, we present the mockups created to address the issue of our project using Figma.
 
+Mockups [here](./files/mockups/Mockups%20PowerPulse%20UX-UI.pdf))
 ---
