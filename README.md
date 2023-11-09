@@ -61,9 +61,7 @@ This application is designed to empower individuals on their journey to better h
 
 ### 4.2 Benchmark
 
-![Benchmarking1](./files/benchmarking1.png)
-![Benchmarking2](./files/benchmarking2.png)
-![Benchmarking2](./files/benchmarking3.png)
+![Benchmarking](./files/benchmarking.png)
 
 ---
 
