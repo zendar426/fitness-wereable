@@ -12,13 +12,8 @@ User experience study for power pulse a fitness progress tracking app.
   - [4.2 Benchmark](#42-benchmark)
   - [4.3 Customer Journey Map](#43-customer-journey-map)
 - [5. Structure](#5-structure)
-  - [7.1. Initial Aporach](#71-first-aproach)
-  - [7.2. Improved Navigation](#72-improved-navigation)
-- [8. Wireframes](#8-wireframes)
-- [9. Mockups](#9-mockups)
-  - [9.1. Initial Aproach](#91-initial-aproach)
-  - [9.2. Improved Mockups](#92-improved-mockups)
-
+- [6. Skeleton](#6-skeleton)
+- [7. Surface](#7-surface)
 ---
 
 ## 1. Introduction
@@ -78,22 +73,12 @@ This application is designed to empower individuals on their journey to better h
 
 ## 5. Structure
 
-### 7.1. First Aproach
+---
 
-
-### 7.2. Improved Navigation
+## 6. Skeleton
 
 ---
 
-## 8. Wireframes
-
----
-
-## 9. Mockups
-
-### 9.1. Initial Aproach
-
-
-### 9.2. Improved Mockups
+## 7. Surface
 
 ---
