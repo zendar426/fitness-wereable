@@ -7,10 +7,11 @@ User experience study for power pulse a fitness progress tracking app.
 - [1. Introduction](#1-introduction)
 - [2. Team](#2-Team)
 - [3. Strategy](#3-strategy)
-- [4. Solutions Scope](#4-solutions-scope)
-- [5. Benchmark](#5-Benchmark)
-- [6. Customer Journey Map](#6-customer-journey-map)
-- [7. Navigation](#7-Navigation)
+- [4. Scope](#4-scope)
+   -[4.1 UX Person](#41-ux-person)
+  - [4.2 Benchmark](#42-benchmark)
+  - [4.3 Customer Journey Map](#43-customer-journey-map)
+- [5. Structure](#5-structure)
   - [7.1. Initial Aporach](#71-first-aproach)
   - [7.2. Improved Navigation](#72-improved-navigation)
 - [8. Wireframes](#8-wireframes)
@@ -50,8 +51,9 @@ Following this approach, a Value Proposition Canvas is employed to identify what
 
 ---
 
-## 4. Solutions Scope
+## 4. Scope
 
+### 4.1. UX Person
 This application is designed to empower individuals on their journey to better health and well-being. Whether you are a beginner in the world of fitness or an experienced enthusiast, it offers features that will help you create personalized workout routines, track your macronutrient intake, and maintain a detailed record of your training sessions. Furthermore, it integrates wearable devices that provide valuable insights into your sleep patterns, heart rate, calorie expenditure, and rest intervals. With features like effective routine generation, a rewards system, and a global ranking, this application is your key to efficiently achieving your fitness goals.
 
 ![Person_UX_1](./files/UX_PERSON1.png)
@@ -62,19 +64,19 @@ This application is designed to empower individuals on their journey to better h
 
 ---
 
-## 5. Benchmark
+### 4.2 Benchmark
 
 ![Benchmarking](./files/Benchmarking.png)
 
 ---
 
-## 6. Customer Journey Map
+### 4.3 Customer Journey Map
 
 ![Customer_Journey_Map](./files/Customer_Journey_Map.png)
 
 ---
 
-## 7. Navigation
+## 5. Structure
 
 ### 7.1. First Aproach
 
