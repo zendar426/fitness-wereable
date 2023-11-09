@@ -8,7 +8,7 @@ User experience study for power pulse a fitness progress tracking app.
 - [2. Team](#2-Team)
 - [3. Strategy](#3-strategy)
 - [4. Scope](#4-scope)
-  -[4.1 UX Person](#41-ux-person)
+  - [4.1 UX Person](#41-ux-person)
   - [4.2 Benchmark](#42-benchmark)
   - [4.3 Customer Journey Map](#43-customer-journey-map)
 - [5. Structure](#5-structure)
