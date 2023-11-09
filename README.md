@@ -80,7 +80,9 @@ A Customer Journey Map in the context of an application is essential to comprehe
 ---
 
 ## 6. Skeleton
+Wireframes
 
+![Wireframes](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
 ---
 
 ## 7. Surface
