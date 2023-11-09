@@ -74,7 +74,7 @@ This application is designed to empower individuals on their journey to better h
 ---
 
 ## 5. Structure
-
+![Navigation](./files/Navigation.png)
 ---
 
 ## 6. Skeleton
