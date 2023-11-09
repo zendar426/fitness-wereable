@@ -81,8 +81,7 @@ A Customer Journey Map in the context of an application is essential to comprehe
 
 ## 6. Skeleton
 Wireframes
-
-[Wireframes](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
+Wireframes help us create simple and schematic visual representations of a user interface, which are used in the design of applications and websites. These drawings or diagrams assist in planning the arrangement of elements on a screen, such as buttons, text, images, and other components, without concerning themselves with visual or graphic details. Wireframes are a fundamental tool for planning and communication in the user interface design process.[here](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
 ---
 
 ## 7. Surface
