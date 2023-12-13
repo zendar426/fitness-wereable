@@ -14,7 +14,7 @@ User experience study for power pulse a fitness progress tracking app.
 - [5. Structure](#5-structure)
 - [6. Skeleton](#6-skeleton)
   - [6.1 Initial Aproach](#61-initial-aproach)
-  - [6.2 Initial Aproach](#61-initial-aproach)
+  - [6.2 Initial Aproach](#62-improved-wireframes)
 - [7. Surface](#7-surface)
 - [8. Usability](#8-usability)
 - [9. Accessibility](#9-accessibility)
