@@ -119,5 +119,13 @@ The evaluating team identified a series of problems in our project and created a
 ---
 
 ## 9. Accessibility
+In our ongoing commitment to making our application accessible to everyone, we have dedicated this section to accessibility issues. We have incorporated various features to ensure that our application is simple and comfortable to use for people with different abilities. Our focus on inclusive design aims to ensure that all users enjoy a smooth and enriching user experience.
 
+What was added in this section is as follows:
+
+- Voice detection was added.
+- Screen reading by voice was added.
+- A more simplified language is used, considering individuals with ASD (Autism Spectrum Disorder).
+- Consistent and accessible color usage in design is implemented, focusing on inclusivity for all users, with special attention to cultural differences and autism spectrum sensitivities.
+- Enhanced tactile control usability is implemented, focusing on button size, spacing, and clear labeling for improved accessibility and user interaction, catering to diverse motor abilities.
 ---
