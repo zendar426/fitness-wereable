@@ -12,6 +12,8 @@ User experience study for power pulse a fitness progress tracking app.
   - [4.2 Benchmark](#42-benchmark)
   - [4.3 Customer Journey Map](#43-customer-journey-map)
 - [5. Structure](#5-structure)
+  - [5.1 Initial Aproach](#51-initial-aproach)
+  - [5.2 Improved Navigation](#52-improved-navigation)
 - [6. Skeleton](#6-skeleton)
   - [6.1 Initial Aproach](#61-initial-aproach)
   - [6.2 Improved Wireframes](#62-improved-wireframes)
@@ -86,9 +88,13 @@ Regarding the adjustments made to the customer journey map, based on the feedbac
 ---
 
 ## 5. Structure
+---
+### 5.1 Initial Aproach
 ![Navigation](./files/Navigation.png)
 ---
-
+### 5.2 Improved Navigation
+![NavigationV2](./files/Navigation%20V2.png)
+---
 ## 6. Skeleton
 ---
 ### 6.1 Initial Aproach 
