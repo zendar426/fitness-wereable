@@ -105,13 +105,13 @@ A heuristic evaluation is a usability review technique for software, aimed at id
 
 The evaluating team identified a series of problems in our project and created a prioritized list of the most critical ones. The issues resolved in this phase include:
 
--More methods for logging in were added.
--A field to confirm the password was added in the registration process.
--A section for editing user profiles was added.
--Icons were changed to improve the app's navigability.
--The typography of the ranking section was updated to improve contrast.
--The size of the icons in the AppBar was increased to improve their visibility.
--A logout button was added.
+- More methods for logging in were added.
+- A field to confirm the password was added in the registration process.
+- A section for editing user profiles was added.
+- Icons were changed to improve the app's navigability.
+- The typography of the ranking section was updated to improve contrast.
+- The size of the icons in the AppBar was increased to improve their visibility.
+- A logout button was added.
 ---
 
 ## 9. Accessibility
