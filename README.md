@@ -13,6 +13,8 @@ User experience study for power pulse a fitness progress tracking app.
   - [4.3 Customer Journey Map](#43-customer-journey-map)
 - [5. Structure](#5-structure)
 - [6. Skeleton](#6-skeleton)
+  - [6.1 Initial Aproach](#61-initial-aproach)
+  - [6.2 Initial Aproach](#61-initial-aproach)
 - [7. Surface](#7-surface)
 - [8. Usability](#8-usability)
 - [9. Accessibility](#9-accessibility)
@@ -86,14 +88,21 @@ Regarding the adjustments made to the customer journey map, based on the feedbac
 ---
 
 ## 6. Skeleton
-Wireframes
+---
+### 6.1 Initial Aproach 
 Wireframes help us create simple and schematic visual representations of a user interface, which are used in the design of applications and websites. These drawings or diagrams assist in planning the arrangement of elements on a screen, such as buttons, text, images, and other components, without concerning themselves with visual or graphic details. Wireframes are a fundamental tool for planning and communication in the user interface design process.
 
 Wireframes [here](./files/wireframes/Wireframes%20PowerPulse%20UX-UI.pdf)
 
 Figma: [here](https://www.figma.com/file/5yWetfQWsOKaTY2xWnA2vq/Wireframes-PowerPulse-UX-UI?type=design&node-id=0-1&mode=design&t=gkuFV4vzFqPUIrsP-0)
 ---
+### 6.2 Improved Wireframes
+The number of wireframes was increased in response to feedback indicating there were too few.
 
+Wireframes V2 [here](./files/wireframes%20v2/Wireframes%20PowerPulse%20UX-UI%20V2.png)
+
+Figma: [here](https://www.figma.com/file/Q7ZCqV4QNeOY7q0uGbUoPQ/Wireframes-PowerPulse-UX-UI-V2?type=design&node-id=0-1&mode=design&t=SxiLPvwKvTWcXYqg-0)
+---
 ## 7. Surface
 Below, we present the mockups created to address the issue of our project using Figma.
 
