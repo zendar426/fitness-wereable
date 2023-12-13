@@ -59,6 +59,8 @@ This application is designed to empower individuals on their journey to better h
 
 ![Person_UX_3](./files/UX_PERSON3.png)
 
+In response to the feedback received, changes were made to the UX Person. The "Brand &" section was removed, as it was observed that it was not being used.
+
 ---
 
 ### 4.2 Benchmark
@@ -74,6 +76,8 @@ Benchmarking is the key tool that allows us to carry out this activity, helping 
 A Customer Journey Map in the context of an application is essential to comprehensively understand how users interact with the platform throughout their journey, from the initial download to ongoing usage. This allows for the identification of improvement opportunities, customization of the user experience, and ensuring the application meets customer needs and expectations, ultimately contributing to user retention and the long-term success of the application in the market.
 
 ![Customer_Journey_Map](./files/Customer_Journey_Map.png)
+
+Regarding the adjustments made to the customer journey map, based on the feedback received, the section mentioning a tutorial for the user has been removed. This is because the tutorial was ultimately not integrated into the final interfaces of the application.
 
 ---
 
