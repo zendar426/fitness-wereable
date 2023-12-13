@@ -14,8 +14,10 @@ User experience study for power pulse a fitness progress tracking app.
 - [5. Structure](#5-structure)
 - [6. Skeleton](#6-skeleton)
   - [6.1 Initial Aproach](#61-initial-aproach)
-  - [6.2 Initial Aproach](#62-improved-wireframes)
+  - [6.2 Improved Wireframes](#62-improved-wireframes)
 - [7. Surface](#7-surface)
+  - [7.1 Initial Aproach](#71-initial-aproach)
+  - [7.2 Improved Mockups](#72-improved-mockups)
 - [8. Usability](#8-usability)
 - [9. Accessibility](#9-accessibility)
 ---
@@ -105,10 +107,16 @@ Figma: [here](https://www.figma.com/file/Q7ZCqV4QNeOY7q0uGbUoPQ/Wireframes-Power
 ---
 ## 7. Surface
 Below, we present the mockups created to address the issue of our project using Figma.
-
+---
+### 7.1 Initial Aproach 
 Mockups: [here](./files/mockups/Mockups%20PowerPulse%20UX-UI.pdf)
 
 Figma: [here](https://www.figma.com/file/VkWSPE5DiLOpCXBbZqmKpJ/Mockups-PowerPulse-UX-UI?type=design&mode=design&t=R0NeCmzueuiCmYsj-0)
+---
+### 7.2 Improved Mockups
+Mockups: [here](./files/mockups%20v2/PowerPulse%20UX-UI%20-%20Mockups.png)
+
+Figma: [here](https://www.figma.com/file/XdwMfSZ4f4qCzRtG4WZHZX/PowerPulse-UX-UI?type=design&node-id=931-50&mode=design&t=wVBh45c3Q1J2Vtx9-0)
 ---
 
 ## 8. Usability
