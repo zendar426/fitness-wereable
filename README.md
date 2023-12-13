@@ -14,6 +14,8 @@ User experience study for power pulse a fitness progress tracking app.
 - [5. Structure](#5-structure)
 - [6. Skeleton](#6-skeleton)
 - [7. Surface](#7-surface)
+- [8. Usability](#8-usability)
+- [9. Accessibility](#9-accessibility)
 ---
 
 ## 1. Introduction
@@ -95,3 +97,21 @@ Mockups: [here](./files/mockups/Mockups%20PowerPulse%20UX-UI.pdf)
 
 Figma: [here](https://www.figma.com/file/VkWSPE5DiLOpCXBbZqmKpJ/Mockups-PowerPulse-UX-UI?type=design&mode=design&t=R0NeCmzueuiCmYsj-0)
 ---
+
+## 8. Usability
+After a heuristic evaluation conducted by members of another team, we will discuss the changes implemented in our project based on their findings.
+
+A heuristic evaluation is a usability review technique for software, aimed at identifying issues in user interface design.
+
+The evaluating team identified a series of problems in our project and created a prioritized list of the most critical ones. The issues resolved in this phase include:
+
+-More methods for logging in were added.
+-A field to confirm the password was added in the registration process.
+-A section for editing user profiles was added.
+-Icons were changed to improve the app's navigability.
+-The typography of the ranking section was updated to improve contrast.
+-The size of the icons in the AppBar was increased to improve their visibility.
+-A logout button was added.
+---
+
+## 9. Accessibility
