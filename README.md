@@ -34,13 +34,13 @@ Our application accompanies you on your journey to improved physical fitness by 
 
 ## 2. Team
 
-Manuel Espiñeira - Project Manager
+Manuel Espiñeira - Project Manager.
 
-Erick Martinez - Designer
+Erick Martinez - Designer.
 
-Rodrigo Moncada - Designer
+Rodrigo Moncada - Designer.
 
-Luis Salazar - Designer
+Luis Salazar - Designer.
 
 ---
 
